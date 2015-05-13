@@ -1,3 +1,8 @@
+<<<<<<< .mine
 Hello Worold!
 Hello c#!
 softuni !
+Hello softuni !=======
+Hello Worold!
+Hello c#!
+softuni !>>>>>>> .r3
