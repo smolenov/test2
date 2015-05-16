@@ -1,6 +1,0 @@
-C:\Users\Ilia\Desktop\ppe 5 temi angel\magistratura\3-ти семестър\visual studio projects\Pr.1BiggerNumber.cs\Pr.1BiggerNumber.cs\bin\Debug\Pr.1BiggerNumber.cs.exe.config
-C:\Users\Ilia\Desktop\ppe 5 temi angel\magistratura\3-ти семестър\visual studio projects\Pr.1BiggerNumber.cs\Pr.1BiggerNumber.cs\bin\Debug\Pr.1BiggerNumber.cs.exe
-C:\Users\Ilia\Desktop\ppe 5 temi angel\magistratura\3-ти семестър\visual studio projects\Pr.1BiggerNumber.cs\Pr.1BiggerNumber.cs\bin\Debug\Pr.1BiggerNumber.cs.pdb
-C:\Users\Ilia\Desktop\ppe 5 temi angel\magistratura\3-ти семестър\visual studio projects\Pr.1BiggerNumber.cs\Pr.1BiggerNumber.cs\obj\Debug\Problem 1. Bigger Number.cs.csprojResolveAssemblyReference.cache
-C:\Users\Ilia\Desktop\ppe 5 temi angel\magistratura\3-ти семестър\visual studio projects\Pr.1BiggerNumber.cs\Pr.1BiggerNumber.cs\obj\Debug\Pr.1BiggerNumber.cs.exe
-C:\Users\Ilia\Desktop\ppe 5 temi angel\magistratura\3-ти семестър\visual studio projects\Pr.1BiggerNumber.cs\Pr.1BiggerNumber.cs\obj\Debug\Pr.1BiggerNumber.cs.pdb
